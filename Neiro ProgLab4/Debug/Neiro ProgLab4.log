@@ -1,0 +1,4 @@
+﻿  Source.c
+c:\users\muwa\dropbox\c\neiro proglab4\source.c(33): error C2220: предупреждение обработано как ошибка - файл "object" не создан
+c:\users\muwa\dropbox\c\neiro proglab4\source.c(33): warning C4710: int printf(const char *const ,...): функция не является встроенной
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(944): note:  см. объявление "printf"
